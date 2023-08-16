@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on some personal projects and my student's projects. Always trying form start to finish, looking to mantaim a good portfolio.
+🔭 I’m currently working on some personal projects and my student's projects. Looking to maintain a good portfolio. As a reference for my dearest students and to new opportunities.
+
+Thanks!
 
 <!--
 **rubaun/rubaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
