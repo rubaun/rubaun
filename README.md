@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on some personal projects and my student's projects. Always trying form start to finish, looking to mantaim a good portfolio.
+
 <!--
 **rubaun/rubaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on some personal projects and my student's projects. Always trying form start to finish, looking to mantaim a good portfolio. 
+ 
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
