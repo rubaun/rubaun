@@ -125,9 +125,9 @@ I believe games are one of the most powerful tools for learning and professional
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubenprd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00D4AA&text_color=e8eaf0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubaun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00D4AA&text_color=e8eaf0)
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenprd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=e8eaf0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubaun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=e8eaf0)
 
 </div>
 
